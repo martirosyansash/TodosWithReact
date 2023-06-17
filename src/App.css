@@ -1,0 +1,19 @@
+
+.App {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  height: 100vh;
+  justify-content: flex-start;
+  align-items: center;
+  box-sizing: border-box;
+  flex-flow: column nowrap;
+  background-color: whitesmoke;
+}
+p{
+  font-size: 60px;
+  color: red;
+  text-shadow: 0 0  1px red;
+  padding: 0;
+  margin-bottom: 20px;
+}
